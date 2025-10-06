@@ -21,6 +21,7 @@
 
 ```python
 temperatures = [22, 28, 15, 8, 30, 18, 25]
+
 result = analyze_temperature(temperatures)
 print(result)
 # Ожидаемый результат:
@@ -30,8 +31,7 @@ print(result)
 #     "min": 8,
 #     "hot_days": 2,
 #     "cold_days": 1
-# }
-```
+# }```
 
 ```python
 temperatures = [15, 16, 17]
